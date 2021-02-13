@@ -22,3 +22,8 @@ class MyDictionary<TKey,TValue> where TKey : notnull
     }
   }
 }
+
+
+// OUTPUT; 
+// [1,Test]
+// [3,AbdulkadirKG]
